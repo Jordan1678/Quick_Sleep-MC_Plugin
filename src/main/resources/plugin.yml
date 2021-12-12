@@ -1,0 +1,6 @@
+name: Fast_Sleep
+version: '${project.version}'
+main: me.jordan1678.Main
+api-version: 1.17
+authors: [ Jordan1678 ]
+description: Fast Sleep
