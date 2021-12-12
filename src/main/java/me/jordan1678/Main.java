@@ -19,7 +19,7 @@ public final class Main extends JavaPlugin {
         ChatColor.RESET);
 
         // print how to contact if there is issues
-        getServer().getConsoleSender().sendMessage(ChatColor.WHITE + "[Quick Sleep] For Support open an Issue on github at: https://github.com/Jordan1678/Quick_Sleep-MC_Plugin" +
+        getServer().getConsoleSender().sendMessage(ChatColor.LIGHT_PURPLE + "[Quick Sleep]" + ChatColor.WHITE + " For Support open an Issue on github at: https://github.com/Jordan1678/Quick_Sleep-MC_Plugin" +
         ChatColor.RESET);
 
     }
